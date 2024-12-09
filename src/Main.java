@@ -76,7 +76,7 @@ public class Main {
                     object.display();
                     break;  
                 case 9: // Exit
-                    System.out.println("Goodbye, Thanks for use me!!");      
+                    System.out.println("\nGoodbye, Thanks for use me!!\n");      
                 default:
                     System.out.println("Invalid choice. Please try again.");
             }
