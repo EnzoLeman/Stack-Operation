@@ -74,11 +74,11 @@ public class Stack {
     }
     // Display Operation
     void display(){
-        System.out.println("*******************");
+        System.out.println("*******************\n");
         for (int i = 4; i > 0; i--) {
             System.out.println(array[i]);
         }
-        System.out.println("*********************");
+        System.out.println("\n*******************");
 
     }
 }
